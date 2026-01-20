@@ -54,6 +54,7 @@ public class Main {
         }
     }
 
+    //Funçao que analisa e garante que o numero digitado pelo usuario e positivo
     public static int verificarNumPositivo(){
         Scanner sc = new Scanner(System.in);
         int numeroDigitado = 0;
